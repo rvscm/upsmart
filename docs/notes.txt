@@ -1,0 +1,33 @@
+Useful links:
+
+Source control: https://github.com/rvscm/upsmart
+login details: rvscm/ raver86
+
+Firebase details:
+https://upsmart-92b5e.firebaseio.com/
+
+Website template:
+https://html5up.net/uploads/demos/phantom/
+
+Bank PO sites:
+https://testbook.com/bank-po
+https://testbook.com/bank-po-practice/quantitative-aptitude/simplification-558daf012a396511b7afc55a/558dafc42a396511d048adfe
+https://www.oliveboard.in/sbi-po/?from=home
+http://www.examsadda.in/2015/01/sbi-clerk-exam-list-of-best-books-in-Hindi-English.html
+
+Firebase tutorials:
+https://firebase.google.com/docs/database/security/indexing-data
+https://firebase.google.com/docs/database/web/structure-data
+https://firebase.google.com/docs/web/setup
+https://firebase.google.com/docs/database/web/read-and-write
+
+Git references:
+Commands cheat sheets:
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+https://git-scm.com/docs 
+
+Other useful resources to explore:
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=free+linux+server+india
+https://cloud.google.com/solutions/websites/
+https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application
+https://www.heroku.com/home

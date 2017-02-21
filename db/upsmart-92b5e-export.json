@@ -1,0 +1,182 @@
+{
+  "users": {
+    "default": {
+      "name": "Default User",
+      "type": "user",
+      "teststaken": [],
+      "results": [],
+      "lastloggedintime": null,
+      "lastloggedinlocation": null,
+      "attempts": []
+    }
+  },
+  "attempts": {
+    "a1": {
+      "user": "Default User",
+      "startedat": "",
+      "finishedat": "",
+      "results": {
+        "finalscore": 0,
+        "quantapt": 20,
+        "dataint": 30,
+        "english": 30,
+        "vr": 40,
+        "comp": 60,
+        "marketing": 25,
+        "lr": 39,
+        "ba": 80,
+        "ga": 90
+      }
+    }
+  },
+  "tests": {
+    "test1": {
+      "name": "Sample Test",
+      "desc": "This is a sample test for Bank PO students.",
+      "category": "bankpo",
+      "cost": 0,
+      "author": "UpSmart",
+      "takenby": 0,
+      "questionscount": 9,
+      "sections": {
+        "quantapt": "Quantitative Aptitude",
+        "dataint": "Data Interpretation",
+        "english": "English",
+        "vr": "Verbal Reasoning",
+        "comp": "Computer",
+        "marketing": "Marketing",
+        "lr": "Logical Reasoning",
+        "ba": "Banking Awareness",
+        "ga": "General Awareness"
+      }
+    }
+  },
+  "questions": {
+    "q1": {
+      "text": "This is a sample question from Quantitative Aptitude section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt1"
+      ],
+      "type": "singleanswer",
+      "section": "quantapt"
+    },
+    "q2": {
+      "text": "This is a sample question from Data Interpretation section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt2"
+      ],
+      "type": "singleanswer",
+      "section": "dataint"
+    },
+    "q3": {
+      "text": "This is a sample question from English section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt2"
+      ],
+      "type": "singleanswer",
+      "section": "english"
+    },
+    "q4": {
+      "text": "This is a sample question from Verbal Reasoning section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt4"
+      ],
+      "type": "singleanswer",
+      "section": "vr"
+    },
+    "q5": {
+      "text": "This is a sample question from Computer section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt2"
+      ],
+      "type": "singleanswer",
+      "section": "comp"
+    },
+    "q6": {
+      "text": "This is a sample question from Marketing section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt2"
+      ],
+      "type": "singleanswer",
+      "section": "marketing"
+    },
+    "q7": {
+      "text": "This is a sample question from Logical Reasoning section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt2"
+      ],
+      "type": "singleanswer",
+      "section": "lr"
+    },
+    "q8": {
+      "text": "This is a sample question from Banking Awareness section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt2"
+      ],
+      "type": "singleanswer",
+      "section": "ba"
+    },
+    "q9": {
+      "text": "This is a sample question from General Awareness section.",
+      "options": [
+        "opt1",
+        "opt2",
+        "opt3",
+        "opt4"
+      ],
+      "answers": [
+        "opt3"
+      ],
+      "type": "singleanswer",
+      "section": "ga"
+    }
+  }
+}
